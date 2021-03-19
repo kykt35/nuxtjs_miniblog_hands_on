@@ -58,7 +58,9 @@ normalize.cssのパッケージをインストールします。
 npm install normalize.css
 nuxt.config.js のcssににnormalize.cssを設定します  
 
+```
 css: [normalize.css]  
+```
 
 ### 3.2 ヘッダーコンポーネントの作成
 (作成中)  
